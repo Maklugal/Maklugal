@@ -19,9 +19,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![MAK stats](https://github-readme-stats.vercel.app/api?username=Maklugal&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maklugal&layout=compact&hide_border=true&cache_seconds=86400)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Maklugal&hide_border=true)
 
 
 
