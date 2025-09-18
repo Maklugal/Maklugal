@@ -25,12 +25,14 @@
 
 ---
 
-### 📌 Featured Projects
-- **Car Rental System** — Java, PostgreSQL, Maven  
-  ![Car Rental System Screenshot](https://via.placeholder.com/600x300.png?text=Car+Rental+System+Demo)
+📌 Featured Projects  
 
-- **Library Management System** — Java, Collections, CLI  
-  ![Library Management Screenshot](https://via.placeholder.com/600x300.png?text=Library+Management+System)
+**Car Rental System — Java, PostgreSQL, Maven**  
+![Car Rental System Screenshot](./screenshots/car-rental.png)  
+
+**Library Management System — Java, Collections, CLI**  
+![Library Management Screenshot](./screenshots/library-management.png)
+
 
 ---
 
