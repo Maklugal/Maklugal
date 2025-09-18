@@ -20,8 +20,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maklugal&show_icons=true&theme=radical&cache_seconds=86400)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maklugal&layout=compact&theme=radical)
+![MAK stats](https://github-readme-stats.vercel.app/api?username=Maklugal&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maklugal&layout=compact&hide_border=true&cache_seconds=86400)
+
 
 
 ---
