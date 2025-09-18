@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Mehmet Aşar Kıribiş (MAK)
+# 👋 Hi, I’m Mehmet Aşar Kıribiş (Maklugal)
 
 ### 🚀 About Me
 - 🌱 Currently learning **Java & SQL**
 - 💻 Interested in **Data Analysis & Reporting**
 - 📚 Building projects like **Car Rental System** & **Library Management System**
 - 🎯 Goal: Work remotely as a **Java Developer / Data Analyst**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/MEHMETASARKIRIBIS) | [GitHub](https://github.com/Maklugal)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-aşar-kıribiş) | [GitHub](https://github.com/Maklugal)
 
 ---
 
